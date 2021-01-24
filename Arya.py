@@ -1,3 +1,4 @@
+import cv2
 print( """ Hello guys...
     
     I'm Dang Ba Luan aka Arya Stalk
